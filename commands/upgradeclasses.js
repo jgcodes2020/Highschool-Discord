@@ -43,7 +43,7 @@ module.exports.run = async (bot, message, args) => {
 };
 
 module.exports.help = {
-  name = "upgradeclasses",
-  description = "This is an admin command. It's used to change the class channel topics to the new format.",
-  aliases = ["upgradeclasses"]
+  name: "upgradeclasses",
+  description: "This is an admin command. It's used to change the class channel topics to the new format.",
+  aliases: ["upgradeclasses"]
 };
